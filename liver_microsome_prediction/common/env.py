@@ -30,7 +30,7 @@ import inspect
 from abc import ABCMeta, abstractmethod
 
 
-# # External packages
+# External packages
 import numpy as np
 import pandas as pd
 # import joblib
@@ -41,14 +41,13 @@ import pandas as pd
 # import missingno as msno
 # from switch import Switch
 # from IPython.display import display
-#
-#
+
+
 # Plot packages
 import matplotlib.pyplot as plt
 from matplotlib.cbook import boxplot_stats
-from matplotlib import gridspec
 import seaborn as sns
-#
+
 
 # Plot options
 #   Use korean fonts
